@@ -1,0 +1,14 @@
+[project]
+name = "comfyuiinvisiblewatermark"
+description = "Nodes:Apply Invisible Watermark, Extract Watermark. Adds up to 12 characters encoded into an image that can be extracted."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/CaptainGrock/ComfyUIInvisibleWatermark"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUIInvisibleWatermark"
+Icon = ""
